@@ -3,8 +3,8 @@
 This repository contains the implementation of the proposed attack described in the paper:
 
 **"An Attack on Ring-LWE Using a Dynamically Adjustable Block Size BKW Algorithm"**
-[Kenjiro Hirose, Shinya Okumura and Atsuko Miyaji], [University of Osaka]
-[AsiaJCIS], [2025]
+Kenjiro Hirose, Shinya Okumura and Atsuko Miyaji, University of Osaka,
+AsiaJCIS, 2025.
 
 ---
 
