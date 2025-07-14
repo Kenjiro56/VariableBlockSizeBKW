@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+/outputs/*
+/reduced_table/*
+.DS_Store
+/experiment_result/*
